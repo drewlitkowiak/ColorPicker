@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ColorPicker</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="welcome">Load or take a picture to get started!</string>
+</resources>
